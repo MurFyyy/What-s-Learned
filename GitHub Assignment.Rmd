@@ -1,0 +1,29 @@
+---
+title: "GitHub Assigment"
+author: "B House"
+date: "2024-03-05"
+output: html_document
+---
+
+#1a: Specifically learned a general basis as to what we will learn in this course regarding regression models. #1b: I also learned what Bias-Variance Tradeoff entails which is using an equation that could help to give us an estimated number of success based off a particular bias that could effect such test. This equation uses a forecast amount that could change if estimated wrong while using a variable that uses a true evaluation with the estimated value.
+
+#2a:In Data Exploration, I learned how to effectively use ggplot2.
+#2b:With those plots, I also learned how to make correct interpretations off of the plots created which could result in further interpretation of an individual variable or the dataset as a whole.
+
+#3a:I learned how to effectively use Linear Regression to make claraifications of the data like to determine if a relationship between variables is strong or not. 
+#3b:With linear regression, I was also able to understand how to predict possible values with our models made with linear regression. With these values we could make interpretations based off of the predicted models that could represent future references.
+
+#4a:In learned how to effectively use logistic regression which helped showing statistical significance with particular variables in our dataset.
+#4b:With these logistic regressions, we can make inferences that help to forecast the nature of our data. Either showing a majority or minority of a particular trend, one which we can make an interpretation off of.
+
+#5a: The first thing I was able to completely understand was generic linear models. With thsese generalized model, we can make inferences on the resulting data that could help to make further calculations for more in-depth interpretation.
+#5b:I like these quite a bit because it allows me to practice my interpretating skills without having to learn an in-depeth analysis to help with said interpretation.
+
+#6a:I learned how to effective create tree based models using varies tree functions to complete these steps.
+#6b:I also learned through tree based models how to make random forest models that help to show and visualize the data in an effective yet descriptive way for, of course, further interpretation.
+
+#7a:I learned was unsupervised models and using the cluster analysis to make interpretations off of the data we used with the cluster analysis. I generally liked this because of it's ability to visually see the changes within the data while also being allowed to learn this more in-depth analysis for future reference. This could be helpful in the future for generalized information of data but by making more complex interpretation with that data.
+#7b: All of the cluster analysis was possible because of kmeans functions which include three separate methods to complete ths analysis like gap stat, silhouette, or the elbow method which I tended to like to most because of its ability to quickly be interpreted.
+
+#8a:I learned how to use Github which could catalog information within a particular code. This information could then be accessed separatly then interpreted or edited through the Github itsef.
+#8b:I also learned of different git commands that could help to make the repoistory of the Githib access more smooth or user-friendly and some of thse examples include git status to check status of a new file or modified file or git add to add a file into the already existing repository. 
